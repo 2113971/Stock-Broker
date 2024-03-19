@@ -1,0 +1,9 @@
+﻿<tr ><td >Exenon Ui Pharma</td><td >50</td><td >70.65</td><td >Sell</td></tr>
+<tr ><td >WEX Academy Inc</td><td >30</td><td >70.65</td><td >Sell</td></tr>
+<tr ><td >Exxon RPA Corp</td><td >80</td><td >70.65</td><td >Buy</td></tr>
+<tr ><td >Exenon Ui Pharma</td><td >50</td><td >65.25</td><td >Sell</td></tr>
+<tr ><td >WEX Academy Inc</td><td >30</td><td >65.25</td><td >Sell</td></tr>
+<tr ><td >Exxon RPA Corp</td><td >80</td><td >65.25</td><td >Buy</td></tr>
+<tr ><td >Exenon Ui Pharma</td><td >50</td><td >64.8</td><td >Sell</td></tr>
+<tr ><td >WEX Academy Inc</td><td >30</td><td >64.8</td><td >Sell</td></tr>
+<tr ><td >Exxon RPA Corp</td><td >80</td><td >64.8</td><td >Buy</td></tr>
